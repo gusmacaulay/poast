@@ -1,8 +1,8 @@
 Poast
 =========
 
-*A calm and pleasant geo postcard environment*
-*Send me a poastcard*
+*A calm and pleasant geo postcard environment*.
+Inspired by postcards, penpals, postcard-ware.
 
 ### PoastCards
 
